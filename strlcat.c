@@ -9,7 +9,6 @@ DESCRIPTION
 
 RETURNS
 	The initial length of dst plus the length of src
-
 */
 int	length_char(char *word)
 {
